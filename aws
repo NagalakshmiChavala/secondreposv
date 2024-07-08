@@ -209,9 +209,6 @@ local
 git fetch branch-name used to fetch the data from central to local
 git fetch --all used to fetch the changes from all
 branches in github
-git merge origin/branch used to merge the changes from cental to
-local
-git push -u origin --delete branch-name used to delete the github branch from
-local
-git remote rm origin used to unlink the github-repo
-git remote rename old -link new-link used to change the repo
+git merge origin/branch used to merge the changes from cent
+
+add newo
